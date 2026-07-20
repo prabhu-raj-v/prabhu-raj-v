@@ -36,6 +36,16 @@
 
 </div>
 
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prabhu-raj-v&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhu-raj-v&layout=compact&theme=tokyonight"/>
+
+</div>
+
 ---
 
 # 🔥 GitHub Streak
@@ -58,26 +68,15 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prabhu-raj-v&theme=tokyonight&column=4"/>
-
-</div>
-
----
-
 # 🚀 Featured Projects
 
-- 🌐 CCD Website
-- ☁️ Personal Cloud Storage
-- 😴 Driver Drowsiness Detection
-- 📧 Mass Mail Dispatcher
+- Portfolio
+- Driver Drowsiness Detection
+- Mass Mail Dispatcher
 
 ---
 
-# 🐍 Snake Contribution Animation
+# Snake Contribution Animation
 
 > Enable a GitHub Actions workflow that generates the snake animation.
 
