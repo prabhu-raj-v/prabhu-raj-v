@@ -7,14 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Web+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
 <pre>
-
- ________  ________  ________  ________  ___  ___  ___  ___          ________  ________        ___          ___      ___ 
-|\   __  \|\   __  \|\   __  \|\   __  \|\  \|\  \|\  \|\  \        |\   __  \|\   __  \      |\  \        |\  \    /  /|
-\ \  \|\  \ \  \|\  \ \  \|\  \ \  \|\ /\ \  \\\  \ \  \\\  \       \ \  \|\  \ \  \|\  \     \ \  \       \ \  \  /  / /
- \ \   ____\ \   _  _\ \   __  \ \   __  \ \   __  \ \  \\\  \       \ \   _  _\ \   __  \  __ \ \  \       \ \  \/  / / 
-  \ \  \___|\ \  \\  \\ \  \ \  \ \  \|\  \ \  \ \  \ \  \\\  \       \ \  \\  \\ \  \ \  \|\  \\_\  \       \ \    / /  
-   \ \__\    \ \__\\ _\\ \__\ \__\ \_______\ \__\ \__\ \_______\       \ \__\\ _\\ \__\ \__\ \________\       \ \__/ /   
-    \|__|     \|__|\|__|\|__|\|__|\|_______|\|__|\|__|\|_______|        \|__|\|__|\|__|\|__|\|________|        \|__|/    
                                                                                                                          
  
                                                                                        
@@ -140,10 +132,6 @@
 
 <a href="https://github.com/prabhu-raj-v">
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-<a href="v.prabhuraj.in@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
 </div>
