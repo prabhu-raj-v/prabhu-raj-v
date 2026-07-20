@@ -36,16 +36,6 @@
 
 </div>
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prabhu-raj-v&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhu-raj-v&layout=compact&theme=tokyonight"/>
-
-</div>
-
 ---
 
 # 🔥 GitHub Streak
