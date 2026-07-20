@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi 👋, I'm Prabhu Raj
+# Hi 👋, I'm Prabhu Raj V
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Web+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
@@ -115,8 +115,6 @@
 ---
 
 # Snake Contribution Animation
-
-> Enable a GitHub Actions workflow that generates the snake animation.
 
 <div align="center">
 
