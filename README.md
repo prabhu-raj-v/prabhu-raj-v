@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Prabhu Raj
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;Python+Developer;FastAPI+%7C+React+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Web+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
 <br><br>
 
@@ -23,7 +23,7 @@
 - 🎓 B.Tech in Computer Science & Engineering
 - 💼 Apprentice at **NLC India Limited**
 - 🌱 Currently learning **Full Stack Web Development**
-- ⚡ Interested in **Python, FastAPI, React & AI**
+- ⚡ Interested in **Graphic Desigining**
 - 🎯 Goal: Build scalable and impactful web applications
 
 ---
@@ -32,19 +32,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,fastapi,tailwind,bootstrap,mysql,sqlite,git,github,vscode,postman"/>
-
-</div>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prabhu-raj-v&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhu-raj-v&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,react,mysql,git,github,vscode,photoshop,figma"/>
 
 </div>
 
@@ -111,16 +99,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile! ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:6a11cb,100:2575fc&height=120"/>
-
-</div>
-
 <pre>
 
  ________  ________  ________  ________  ___  ___  ___  ___          ________  ________        ___          ___      ___ 
@@ -178,5 +156,12 @@
 
  
 </pre>
+---
 
+<div align="center">
 
+### ⭐ Thanks for visiting my profile! ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:6a11cb,100:2575fc&height=120"/>
+
+</div>
