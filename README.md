@@ -71,7 +71,7 @@
 - 🎓 B.Tech in Computer Science & Engineering
 - 💼 Apprentice at **NLC India Limited**
 - 🌱 Currently learning **Full Stack Web Development**
-- ⚡ Interested in **Graphic Desigining**
+- ⚡ Interested in **Web Development & Graphic Desigining**
 - 🎯 Goal: Build scalable and impactful web applications
 
 ---
