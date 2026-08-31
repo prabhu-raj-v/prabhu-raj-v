@@ -84,25 +84,6 @@
 
 </div>
 
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=prabhu-raj-v&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhu-raj-v&theme=tokyo-night"/>
-
-</div>
 
 ---
 
