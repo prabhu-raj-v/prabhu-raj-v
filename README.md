@@ -16,16 +16,6 @@
   <a href="https://linkedin.com/in/prabhu-raj-v"><img src="https://img.shields.io/badge/NEURAL_NET-prabhu--raj--v-000000?style=for-the-badge&logo=linkedin&logoColor=ff0055&labelColor=05050c" alt="LinkedIn Node" /></a>
   <a href="https://drive.google.com/file/d/1xooyKSx0UHTmgcdGH3tqDYZnG8zRuGVv/view"><img src="https://img.shields.io/badge/RESUME_PAYLOAD-ENCRYPTED_BLOB-00f0ff?style=for-the-badge&logo=googledrive&logoColor=05050c&labelColor=00f0ff" alt="Resume Download" /></a>
 </p>
-
-```ascii
-[SYS_ID: 0x7FFD9] =============================================================
-|   ___ _   _ ___ ___ ___ ___ _   _ _  _ _  __   ___ _   _ ___ _____ _____     |
-|  / __| \ | | __/ _ \ _ \ _ \ | | | \| | |/ /  / __| | | |_ _|_   _| ____|    |
-| | (__| |_| | _| (_) |   /  _/ |_| | .` | ' <   \__ \ |_| || |  | | |  _|     |
-|  \___|\___/|___\___/|_|_|_|  \___/|_|\_|_|\_\  |___/\___/|___| |_| |_____|   |
-============================================================ [RAM: OPTIMIZED] ==
-```
-
 </div>
 
 ```ini
